@@ -1,0 +1,38 @@
+{
+  "name": "apollodev-bot",
+  "version": "1.0.0",
+  "description": "The official bot we use for apollodev.api Discord server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "apollodev",
+  "license": "MIT",
+  "dependencies": {
+    "discord-passport": "^1.0.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "passport": "^0.4.1",
+    "sequelize": "^6.5.0",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apollodevv/apollodev.api.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "apollodev",
+    "open-source",
+    "discord-dashboard",
+    "dashboard",
+    "discord.js",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/apollodevv/apollodev.api/issues"
+  },
+  "homepage": "https://github.com/apollodevv/apollodev.api#readme"
+}
